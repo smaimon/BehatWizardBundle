@@ -1,0 +1,8 @@
+title: Behatwizardbundle
+description: a symfony2 bundle to more easily use Behat (for Clients or Product Owners)
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
